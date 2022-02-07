@@ -3,7 +3,7 @@ Electronics Calculations Files
 
 ### Files List
 * EMWA0000001: Standard Resistors Values based Standard IEC 60063:xxxx [Doing]
-* EMWA0000002: Standard Capacitors Values based Standard IEC 60063:xxxx [To Do]
+* EMWA0000002: Standard Capacitors Values based Standard IEC 60063:xxxx [Doing]
 * EMWA0000003: NE555 Astable Circuit components calculator [To Do]
 
 
